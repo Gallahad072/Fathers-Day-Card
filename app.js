@@ -11,8 +11,8 @@ function get_compliment(){
     const compliments = [
         "You encourage me in everything I do and it makes feel so appreciated",
         "You've helped me learn to be independent and confident",
-        "You've fed my curiosity and I'm so grateful as I wouldn't be the intersted person I am without that",
-        "I love talking to you, about anything! I'm able to have real intresting conversations with you",
+        "You've fed my curiosity and I'm so grateful as I wouldn't be the interested person I am without that",
+        "I love talking to you, about anything! I'm able to have real interesting conversations with you",
         "I admire your selflessness and humility, I really look up to you",
         "I've got no clue how you can work with Mum sometimes, God I envy you ;)",
         "I feel so proud to have you as a Dad",
